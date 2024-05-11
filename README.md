@@ -1,0 +1,1 @@
+#This is a simple accordion FAQ built in HTML, CSS and JavaScript.
